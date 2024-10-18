@@ -1,5 +1,5 @@
 
-### While Loop Explanation
+###  Loop Explanation
 
 ## 🚦 While Loop
 - **Purpose**: Repeats a block of code as long as a specified condition is true.
