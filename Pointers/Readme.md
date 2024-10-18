@@ -1,9 +1,9 @@
 
 
 
-###  Pointers in C++ 🔗
+#  Pointers in C++ 🔗
 
----
+
 
 ## 📋 What are Pointers?
 
