@@ -44,7 +44,11 @@ This C++ program demonstrates various data types, their sizes, and how to declar
   - **Usage**: Provides extended precision for floating-point numbers.
   - Example: `long double scoreLD = 43.32;`
 
-### 3. **Constants**
+### 3. **Strings**
+  - **String (string)**:
+  - **Size**: Dynamic size (depends on the content).
+  - **Usage**: Used to store sequences of characters (text).
+### 4. **Constants**
 - **Const**: Used to declare a variable whose value cannot be modified after its initialization.
   - Example: `const float scoreConst = 43.32f;` 
 
