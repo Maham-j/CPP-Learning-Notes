@@ -1,7 +1,7 @@
 
 ### Function and Void Function Explanation
 
-
+- Before function name we have to write its return type otherwise it will return nothing
 ## 🚦 Function (Returning Value)
 - **Purpose**: A function that performs a calculation and returns a value.
 - **Example**: `int sum(int a, int b)`
