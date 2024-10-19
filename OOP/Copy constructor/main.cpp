@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int count = 0;
+
 class num{
 	int a;
 	public:
