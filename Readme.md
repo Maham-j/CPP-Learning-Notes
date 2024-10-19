@@ -2,8 +2,67 @@
 # C++ Learning Notes 📚
 
 This repository is a collection of my C++ learning notes, designed to help beginners and intermediate programmers understand the core concepts of C++. Whether you're starting from scratch or looking to refresh your knowledge, this repository offers concise explanations and practical examples.
-## Folders Overview 🗂️
 
+# Table of Contents
+
+1. **[Arrays](#arrays)**
+   - [2D array.cpp](#2d-arraycpp)
+   - [Create 2D array.cpp](#create-2d-arraycpp)
+   - [2D array_input.cpp](#2d-array-inputcpp)
+   - [Input array.cpp](#input-arraycpp)
+   - [Readme.md](#readmemd)
+   - [array.cpp](#arraycpp)
+
+2. **[Comments](#comments)**
+
+3. **[Data Types and Variables](#data-types-and-variables)**
+   - [Readme.md](#readmemd)
+   - [constants.cpp](#constantscpp)
+   - [float.cpp](#floatcpp)
+   - [integer.cpp](#integercpp)
+   - [string.cpp](#stringcpp)
+   - [Update Readme.md](#update-readmemd)
+
+4. **[First C++ Program](#first-c-program)**
+   - Explains how to write a basic program.
+
+5. **[Functions](#functions)**
+   - Covers returning values and void functions.
+
+6. **[If Else Conditions](#if-else-conditions)**
+
+7. **[Loops](#loops)**
+   - Includes while, do while, and for loops.
+
+8. **[Input and Output](#input-and-output)**
+
+9. **[Operators](#operators)**
+   - Contains all operators of C++.
+
+10. **[Pointers](#pointers)**
+
+11. **[Scope Resolution Operators](#scope-resolution-operators)**
+
+12. **[Switch](#switch)**
+
+13. **[Typecasting](#typecasting)**
+
+14. **[Object-Oriented Programming (OOP)](#object-oriented-programming-oop)**
+    - **[Class and This Pointer](#class-and-this-pointer)**
+    - **[Concepts](#concepts)**
+      - Dynamic Memory Allocation
+      - Memory Leakage
+      - Why Destructor is Needed
+    - **[Constructor Types](#constructor-types)**
+      - Parametric and Non-Parametric
+    - **[Copy Constructor](#copy-constructor)**
+    - **[Deep and Shallow Copy](#deep-and-shallow-copy)**
+    - **[Destructor](#destructor)**
+    - **[Global and Local Variables](#global-and-local-variables)**
+    - **[Inheritance](#inheritance)**
+
+
+## Folders Overview 🗂️
 ### 1. Array 🌐
 - **2D array.cpp**: Code for creating and using 2D arrays.
 - **2D array_input.cpp**: Code for taking input in 2D arrays.
@@ -77,7 +136,11 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 A special thanks to the online community and resources that have guided my learning journey.
 
 ## Contact Information 📬
-Feel free to reach out to me at [mahamjamil](mahamjamil109@gmail.com) for any questions or collaboration ideas.
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
 
 ## Additional Resources 🔗
 - [C++ Documentation](https://en.cppreference.com/)
