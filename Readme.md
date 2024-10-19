@@ -5,7 +5,7 @@ This repository is a collection of my C++ learning notes, designed to help begin
 
 # Table of Contents
 
-1. **[Arrays](#arrays)**
+1. **[Arrays](#https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/2D%20array.cpp)**
    - [2D array.cpp](#2d-arraycpp)
    - [Create 2D array.cpp](#create-2d-arraycpp)
    - [2D array_input.cpp](#2d-array-inputcpp)
