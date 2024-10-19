@@ -14,7 +14,7 @@ This C++ program demonstrates various data types, their sizes, and how to declar
 - No spaces or special characters are allowed
 - Keywords can't be used
 ---
-# Dat types
+# Data types
 ### 1. **Integer Type**
 - **Short (`short`)**: 
   - **Size**: Typically 2 bytes.
