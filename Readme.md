@@ -22,9 +22,10 @@ This repository is a collection of my C++ learning notes, designed to help begin
    - [float.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/float.cpp)
    - [integer.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/integer.cpp)
    - [string.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/string.cpp)
+   - [Update Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/Update%20Readme.md)
 
-4. **[First C++ Program](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/First%20C++%20Program)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/First%20C++%20Program/Readme.md)
+4. **[First C++ Program](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/First%20C%2B%2B%20Program)**
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/First%20C%2B%2B%20Program/Readme.md)
 
 5. **[Functions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Functions)**
    - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Functions/Readme.md)
@@ -35,8 +36,8 @@ This repository is a collection of my C++ learning notes, designed to help begin
 7. **[Loops](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Loops)**
    - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Loops/Readme.md)
 
-8. **[Input and Output](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Input%20Output)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Input%20Output/Readme.md)
+8. **[Input and Output](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Input%20and%20Output)**
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Input%20and%20Output/Readme.md)
 
 9. **[Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Operators)**
    - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Operators/Readme.md)
@@ -66,6 +67,7 @@ This repository is a collection of my C++ learning notes, designed to help begin
     - **[Destructor](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Destructor)**
     - **[Global and Local Variables](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Global%20and%20Local%20Variables)**
     - **[Inheritance](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Inheritance)**
+
 
 
 
