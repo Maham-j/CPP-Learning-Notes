@@ -7,7 +7,15 @@ This C++ program demonstrates various data types, their sizes, and how to declar
 
 ## 📄 Code Breakdown
 
-### 1. **Variable Declarations**
+###  **Variable Declarations**
+- Begin with alphabet or underscore(_)
+- After initial letter,can also contains numbers
+- Are case sestive
+- No spaces or special characters are allowed
+- Keywords can't be used
+---
+# Dat types
+### 1. **Integer Type**
 - **Short (`short`)**: 
   - **Size**: Typically 2 bytes.
   - **Usage**: Stores small integers. 
