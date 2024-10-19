@@ -1,5 +1,5 @@
 
-# Constructor 📋
+# Parametric Constructor 📋
 
 - In C++, constructors are special functions that are only called once when an object is created. They are responsible for initializing the object's state (its data members).
 -  After the object has been constructed, you cannot manually call the constructor again, because constructors are not regular member functions.
@@ -27,6 +27,22 @@ emp1.printDetails();   // Prints updated details
 
 emp1.getSecretCode();              // Print secret code
 ```
+
+---
+
+# Non-Parametric Constructor 🏗️
+- **Definition**: A constructor that does not take any parameters.
+- **Purpose**: Initializes an object with default values or does not require initial values.
+
+
+### Key Differences ✔️
+
+| Feature                   | Parametric Constructor            | Non-Parametric Constructor         |
+|---------------------------|-----------------------------------|------------------------------------|
+| **Parameters**            | Accepts parameters                 | Does not accept parameters          |
+| **Initialization**        | Allows initialization with specific values | Initializes with default values  |
+| **Use Case**              | Used when specific values are needed | Used when default or no values are sufficient |
+
 
 
 
