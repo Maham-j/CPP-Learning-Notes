@@ -10,7 +10,7 @@
 - if you call this it will cause an error.
 - If you want to modify the object’s data after creation, do so by directly assigning new values to the data members:
 ```cpp
-   emp1.name = "Jamil";   // Correct way to modify the name after creation
+emp1.name = "Jamil";   // Correct way to modify the name after creation
 emp1.salary = 2000;    // Modify the salary
 emp1.printDetails();   // Prints updated details
 ```
