@@ -15,47 +15,56 @@ This repository is a collection of my C++ learning notes, designed to help begin
 
 
 
+### 2. **[Comments](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Comments)** 💬  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Comments/Readme.md): Explanation of comments in C++.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Comments/main.cpp): Code examples of comments.
 
-### 2. **[Comments](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Comments)** 💬
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Comments/Readme.md): Documentation explaining the use of comments in C++.
+### 3. **[Data Types and Variables](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Data%20Types%20and%20Variables)** ⚙️  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/Readme.md): Overview of data types and variables.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/main.cpp): Code examples for variables, constants, and data types.
 
-### 3. **[Data Types and Variables](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Data%20Types%20and%20Variables)** ⚙️
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/Readme.md): Overview of data types and variables in C++.
-   - [constants.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/constants.cpp): Code for declaring and using constants.
-   - [float.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/float.cpp): Code for working with floating-point variables.
-   - [integer.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/integer.cpp): Code for integer operations.
-   - [string.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/string.cpp): Code for using strings in C++.
-   - [Update Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/Update%20Readme.md): Updated documentation for this folder.
+### 4. **[First C++ Program](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/First%20C%2B%2B%20Program)** 🖥️  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/First%20C%2B%2B%20Program/Readme.md): Instructions for writing your first C++ program.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/First%20C%2B%2B%20Program/main.cpp): Example code of a basic C++ program.
 
-### 4. **[First C++ Program](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/First%20C%2B%2B%20Program)** 🖥️
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/First%20C%2B%2B%20Program/Readme.md): Instructions on writing a basic C++ program.
+### 5. **[Functions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Functions)** 🛠️  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Functions/Readme.md): Guide on writing functions.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Functions/main.cpp): Code examples of void and return-type functions.
 
-### 5. **[Functions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Functions)** 🛠️
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Functions/Readme.md): Documentation covering function types, including void and return functions.
+### 6. **[If Else Conditions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/If%20Else%20Conditions)** 🔄  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/If%20Else%20Conditions/Readme.md): Explanation of if-else conditions.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/If%20Else%20Conditions/main.cpp): Code for using if-else statements.
 
-### 6. **[If Else Conditions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/If%20Else%20Conditions)** 🔄
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/If%20Else%20Conditions/Readme.md): Examples of using if-else statements in C++.
+### 7. **[Loops](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Loops)** 🔁  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Loops/Readme.md): Overview of loops in C++.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Loops/main.cpp): Code examples for while, do-while, and for loops.
 
-### 7. **[Loops](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Loops)** 🔁
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Loops/Readme.md): Overview of different loop structures like while, do-while, and for loops.
+### 8. **[Input and Output](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Input%20and%20Output)** 📥📤  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Input%20and%20Output/Readme.md): Handling input and output.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Input%20and%20Output/main.cpp): Code examples for cin and cout.
 
-### 8. **[Input and Output](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Input%20and%20Output)** 📥📤
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Input%20and%20Output/Readme.md): Documentation on handling input and output in C++.
+### 9. **[Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Operators)** ➕➖  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Operators/Readme.md): Explanation of C++ operators.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Operators/main.cpp): Code for arithmetic, logical, and bitwise operators.
 
-### 9. **[Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Operators)** ➕➖
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Operators/Readme.md): Explanation of various operators used in C++.
+### 10. **[Pointers](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Pointers)** 📍  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Pointers/Readme.md): Guide on pointers in C++.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Pointers/main.cpp): Pointer examples in action.
 
-### 10. **[Pointers](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Pointers)** 📍
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Pointers/Readme.md): Overview of pointers in C++.
+### 11. **[Scope Resolution Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Scope%20Resolution%20Operators)** 📏  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Scope%20Resolution%20Operators/Readme.md): Explanation of the scope resolution operator.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Scope%20Resolution%20Operators/main.cpp): Code examples of using `::`.
 
-### 11. **[Scope Resolution Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Scope%20Resolution%20Operators)** 📏
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Scope%20Resolution%20Operators/Readme.md): Explanation of the scope resolution operator (`::`) in C++.
+### 12. **[Switch](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Switch)** 🔄  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Switch/Readme.md): Guide on switch-case usage.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Switch/main.cpp): Code examples of switch-case.
 
-### 12. **[Switch](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Switch)** 🔄
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Switch/Readme.md): Overview and examples of the switch statement in C++.
+### 13. **[Typecasting](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Typecasting)** 🎭  
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Typecasting/Readme.md): Explanation of typecasting.  
+   - [main.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Typecasting/main.cpp): Code examples of type conversions.
 
-### 13. **[Typecasting](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Typecasting)** 🎭
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Typecasting/Readme.md): Explanation of different types of typecasting in C++.
+
+
 
 ### 14. **[Object-Oriented Programming (OOP)](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP)** 🏛️
    - **[Class and This Pointer](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Class%20and%20This%20Pointer)**: Explanation of classes and the `this` pointer.
