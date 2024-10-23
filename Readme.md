@@ -3,133 +3,74 @@
 
 This repository is a collection of my C++ learning notes, designed to help beginners and intermediate programmers understand the core concepts of C++. Whether you're starting from scratch or looking to refresh your knowledge, this repository offers concise explanations and practical examples.
 
-# Table of Contents
+# Folders Overview 🗂️
 
-1. **[Arrays](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Arrays)**
-   - [2D array.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/2D%20array.cpp)
-   - [Create 2D array.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/Create%202D%20array.cpp)
-   - [2D array_input.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/2D%20array_input.cpp)
-   - [Input array.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/Input%20array.cpp)
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/Readme.md)
-   - [array.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/array.cpp)
-
-2. **[Comments](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Comments)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Comments/Readme.md)
-
-3. **[Data Types and Variables](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Data%20Types%20and%20Variables)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/Readme.md)
-   - [constants.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/constants.cpp)
-   - [float.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/float.cpp)
-   - [integer.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/integer.cpp)
-   - [string.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/string.cpp)
-   - [Update Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/Update%20Readme.md)
-
-4. **[First C++ Program](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/First%20C%2B%2B%20Program)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/First%20C%2B%2B%20Program/Readme.md)
-
-5. **[Functions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Functions)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Functions/Readme.md)
-
-6. **[If Else Conditions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/If%20Else%20Conditions)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/If%20Else%20Conditions/Readme.md)
-
-7. **[Loops](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Loops)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Loops/Readme.md)
-
-8. **[Input and Output](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Input%20and%20Output)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Input%20and%20Output/Readme.md)
-
-9. **[Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Operators)**
-   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Operators/Readme.md)
-
-10. **[Pointers](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Pointers)**
-    - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Pointers/Readme.md)
-
-11. **[Scope Resolution Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Scope%20Resolution%20Operators)**
-    - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Scope%20Resolution%20Operators/Readme.md)
-
-12. **[Switch](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Switch)**
-    - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Switch/Readme.md)
-
-13. **[Typecasting](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Typecasting)**
-    - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Typecasting/Readme.md)
-
-14. **[Object-Oriented Programming (OOP)](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP)**
-    - **[Class and This Pointer](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Class%20and%20This%20Pointer)**
-    - **[Concepts](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Concepts)**
-      - Dynamic Memory Allocation
-      - Memory Leakage
-      - Why Destructor is Needed
-    - **[Constructor Types](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Constructor%20Types)**
-      - Parametric and Non-Parametric
-    - **[Copy Constructor](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Copy%20Constructor)**
-    - **[Deep and Shallow Copy](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Deep%20and%20Shallow%20Copy)**
-    - **[Destructor](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Destructor)**
-    - **[Global and Local Variables](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Global%20and%20Local%20Variables)**
-    - **[Inheritance](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Inheritance)**
+### 1. **[Arrays](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Arrays)** 🌐
+   - [2D array.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/2D%20array.cpp): Code for  using 2D arrays.
+   - [Create 2D array.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/Create%202D%20array.cpp): Code for creating and using 2D arrays.
+   - [2D array_input.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/2D%20array_input.cpp): Code for taking input in 2D arrays.
+   - [Input array.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/Input%20array.cpp): Updated code for array input.
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/Readme.md): Documentation for the Array folder.
+   - [array.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Arrays/array.cpp): General array operations.
 
 
 
 
-## Folders Overview 🗂️
-### 1. Array 🌐
-- **2D array.cpp**: Code for creating and using 2D arrays.
-- **2D array_input.cpp**: Code for taking input in 2D arrays.
-- **Input array.cpp**: Updated code for array input.
-- **Readme.md**: Documentation for the Array folder.
-- **array.cpp**: General array operations.
+### 2. **[Comments](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Comments)** 💬
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Comments/Readme.md): Documentation explaining the use of comments in C++.
 
-### 2. Comments 💬
-- A collection of examples and explanations of comments in C++.
+### 3. **[Data Types and Variables](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Data%20Types%20and%20Variables)** ⚙️
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/Readme.md): Overview of data types and variables in C++.
+   - [constants.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/constants.cpp): Code for declaring and using constants.
+   - [float.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/float.cpp): Code for working with floating-point variables.
+   - [integer.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/integer.cpp): Code for integer operations.
+   - [string.cpp](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/string.cpp): Code for using strings in C++.
+   - [Update Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Data%20Types%20and%20Variables/Update%20Readme.md): Updated documentation for this folder.
 
-### 3. Data Types and Variables ⚙️
-- **Readme.md**: Documentation for Data Types and Variables.
-- **constants.cpp**: Code for constant variables.
-- **float.cpp**: Code for floating-point variables.
-- **integer.cpp**: Code for integer variables.
-- **string.cpp**: Code for string variables.
+### 4. **[First C++ Program](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/First%20C%2B%2B%20Program)** 🖥️
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/First%20C%2B%2B%20Program/Readme.md): Instructions on writing a basic C++ program.
 
-### 4. First C++ Program 🖥️
-- Explanation on how to write a basic C++ program.
+### 5. **[Functions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Functions)** 🛠️
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Functions/Readme.md): Documentation covering function types, including void and return functions.
 
-### 5. Functions 🛠️
-- Overview of returning value and void functions.
+### 6. **[If Else Conditions](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/If%20Else%20Conditions)** 🔄
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/If%20Else%20Conditions/Readme.md): Examples of using if-else statements in C++.
 
-### 6. If-Else Conditions 🔄
-- Examples and explanations of if-else statements.
+### 7. **[Loops](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Loops)** 🔁
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Loops/Readme.md): Overview of different loop structures like while, do-while, and for loops.
 
-### 7. Loops 🔁
-- Various types of loops: while, do while, and for loops.
+### 8. **[Input and Output](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Input%20and%20Output)** 📥📤
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Input%20and%20Output/Readme.md): Documentation on handling input and output in C++.
 
-### 8. Input/Output 📥📤
-- Handling input and output operations in C++.
+### 9. **[Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Operators)** ➕➖
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Operators/Readme.md): Explanation of various operators used in C++.
 
-### 9. Operators ➕➖
-- A comprehensive collection of all operators in C++.
+### 10. **[Pointers](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Pointers)** 📍
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Pointers/Readme.md): Overview of pointers in C++.
 
-### 10. Pointers 📍
-- Understanding pointers in C++.
+### 11. **[Scope Resolution Operators](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Scope%20Resolution%20Operators)** 📏
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Scope%20Resolution%20Operators/Readme.md): Explanation of the scope resolution operator (`::`) in C++.
 
-### 11. Scope Resolution Operators 📏
-- Explanation and usage of scope resolution operators.
+### 12. **[Switch](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Switch)** 🔄
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Switch/Readme.md): Overview and examples of the switch statement in C++.
 
-### 12. Switch Statement 🔄
-- Overview and examples of the switch statement.
+### 13. **[Typecasting](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/Typecasting)** 🎭
+   - [Readme.md](https://github.com/Maham-j/CPP-Learning-Notes/blob/main/Typecasting/Readme.md): Explanation of different types of typecasting in C++.
 
-### 13. Type Casting 🎭
-- Explanation of different types of type casting in C++.
-
-### 14. Object-Oriented Programming (OOP) 🏛️
-- **1. Class and This Pointer**: Explanation of classes and the `this` pointer.
-- **2. Concepts**: Covers dynamic memory allocation, memory leakage, and why destructors are needed.
-- **3. Constructors**: Details about parameterized and non-parameterized constructors.
-- **4. Copy Constructor**: Explanation and examples of copy constructors.
-- **5. Deep and Shallow Copy**: Understanding the differences with examples.
-- **6. Destructor**: Explanation of destructors and their usage.
-- **7. Global and Local Variables**: Understanding variable scopes.
-- **8. Inheritance**: Overview of inheritance in C++.
+### 14. **[Object-Oriented Programming (OOP)](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP)** 🏛️
+   - **[Class and This Pointer](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Class%20and%20This%20Pointer)**: Explanation of classes and the `this` pointer.
+   - **[Concepts](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Concepts)**: Concepts like dynamic memory allocation, memory leakage, and the need for destructors.
+   - **[Constructor Types](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Constructor%20Types)**: Information on parametric and non-parametric constructors.
+   - **[Copy Constructor](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Copy%20Constructor)**: Examples and explanations of copy constructors.
+   - **[Deep and Shallow Copy](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Deep%20and%20Shallow%20Copy)**: Explanation of the differences between deep and shallow copies.
+   - **[Destructor](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Destructor)**: Information on destructors and their role.
+   - **[Global and Local Variables](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Global%20and%20Local%20Variables)**: Understanding variable scope.
+   - **[Inheritance](https://github.com/Maham-j/CPP-Learning-Notes/tree/main/OOP/Inheritance)**: Overview of inheritance in C++.
 
 ---
+
+
+
 
 
 
